@@ -2,12 +2,6 @@
 
 <img src="./assets/profile-hero.svg" alt="Carlos Reyes — Software Developer" width="100%">
 
-<br>
-
-![Web Applications](https://img.shields.io/badge/WEB_APPLICATIONS-2BBAC5?style=for-the-badge)
-![Automation](https://img.shields.io/badge/AUTOMATION-2BBAC5?style=for-the-badge)
-![Infrastructure](https://img.shields.io/badge/INFRASTRUCTURE-2BBAC5?style=for-the-badge)
-
 </div>
 
 ## Expertise
