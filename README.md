@@ -4,12 +4,14 @@
 
 </div>
 
+
 ## Expertise
 
-- **Web Applications** — Modern, responsive and production-ready web experiences.
-- **Backend & Integrations** — APIs, server-side functionality and third-party service integrations.
-- **Automation** — Workflow automation, webhooks and business process optimization.
-- **Infrastructure** — Dockerized environments, Linux servers and production deployments.
+- **Full-Stack Web Applications** — Production-ready web applications combining frontend, backend, data and server-side functionality.
+- **Dashboards & Admin Interfaces** — Data-driven dashboards, administrative panels and operational interfaces designed for real-world workflows.
+- **Backend & API Architecture** — REST APIs, authentication, business logic, relational data and system integrations.
+- **Automation & Integrations** — Workflow automation, webhooks, external services and business process integrations.
+- **Infrastructure & Production** — Dockerized environments, Linux servers, reverse proxies, deployment workflows and production operations.
 
 <br>
 
@@ -51,10 +53,10 @@
 
 ## Current Focus
 
-- Building modern web applications with Astro and TypeScript.
-- Improving backend architecture and system integrations.
-- Working with Docker, Linux and production environments.
-- Creating automation tools for real-world workflows.
+- Building and evolving full-stack web applications and internal business systems.
+- Designing data-driven dashboards, admin panels and operational interfaces.
+- Strengthening backend architecture, REST APIs, security and system integrations.
+- Improving production workflows with Docker, Linux, automation and testing.
 
 <br>
 
