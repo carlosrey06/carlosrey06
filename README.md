@@ -30,42 +30,22 @@
 ### Automation & Integrations
 
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-0D1117?style=flat-square&logo=googleappsscript&logoColor=2BBAC5) ![REST APIs](https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square) ![Webhooks](https://img.shields.io/badge/Webhooks-0D1117?style=flat-square)
- 
+
 <br>
- 
-## Featured Projects
- 
-### Frío Puro
- 
-Corporate web platform built with a modern SSR architecture, focused on performance, maintainability and production deployment.
- 
-**Stack:** `Astro` · `TypeScript` · `Node.js` · `Tailwind CSS` · `Docker` · `Traefik`
- 
----
- 
-### Invitaciones Premium
- 
-Digital invitation platform focused on responsive design, user experience and modern web development.
- 
-**Stack:** `Astro` · `TypeScript` · `JavaScript`
- 
----
- 
-<br>
- 
+
 ## Current Focus
- 
+
 - Building modern web applications with Astro and TypeScript.
 - Improving backend architecture and system integrations.
 - Working with Docker, Linux and production environments.
 - Creating automation tools for real-world workflows.
- 
+
 <br>
- 
+
 ---
- 
+
 <div align="center">
- 
+
 <sub>Building reliable software with clarity, precision and long-term maintainability.</sub>
- 
+
 </div>
