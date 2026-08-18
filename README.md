@@ -31,6 +31,10 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=2BBAC5) ![Sequelize](https://img.shields.io/badge/Sequelize-0D1117?style=flat-square&logo=sequelize&logoColor=2BBAC5) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-0D1117?style=flat-square&logo=googlesheets&logoColor=2BBAC5)
 
+### Data Visualization
+
+![Apache ECharts](https://img.shields.io/badge/Apache_ECharts-0D1117?style=flat-square&logo=apacheecharts&logoColor=2BBAC5)
+
 ### Infrastructure & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2BBAC5) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-0D1117?style=flat-square&logo=docker&logoColor=2BBAC5) ![Traefik](https://img.shields.io/badge/Traefik-0D1117?style=flat-square&logo=traefikproxy&logoColor=2BBAC5) ![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=2BBAC5) ![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=2BBAC5)
